@@ -1,0 +1,4 @@
+{
+	"name":"bad-packagejson",
+	"this is an example of an incorrect json file"::ponies
+}
